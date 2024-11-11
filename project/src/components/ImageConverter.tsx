@@ -94,7 +94,7 @@ const ImageConverter: React.FC = () => {
     <div className="max-w-4xl mx-auto p-6">
       <div className="bg-white rounded-2xl shadow-xl p-8">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">Image Converter</h1>
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">Super Image Converter 1.0</h1>
           <p className="text-gray-600">Convert, compress, and transform your images easily</p>
         </div>
 
