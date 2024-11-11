@@ -62,6 +62,11 @@ A powerful, secure, and user-friendly web application for converting and compres
 
 ## Getting Started
 
+
+## Updates
+- trying to connect it to github
+
+
 ### Prerequisites
 - Node.js 16.0 or higher
 - npm or yarn
